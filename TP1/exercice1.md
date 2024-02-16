@@ -4,4 +4,4 @@ l'archi globale est une ressource classée restricted et n'est pas accessible pa
 
 # Fin de l'exercice  
 
-# Modification Corentin BAUDRIN
+# Modification Corentin BAUDRIN v2
